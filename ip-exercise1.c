@@ -5,7 +5,7 @@ Date: 29/04/2022
 Student ID: REDACTED
 Group: REDACTED
 */
-
+#include<stdlib.h>
 
 #include <stdio.h>
 
