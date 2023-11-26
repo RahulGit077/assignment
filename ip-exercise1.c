@@ -6,6 +6,7 @@ Student ID: REDACTED
 Group: REDACTED
 */
 #include<stdlib.h>
+#include<string.h>
 
 #include <stdio.h>
 
